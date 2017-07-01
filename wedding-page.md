@@ -1,0 +1,1 @@
+A web-page containing information about a wedding.
